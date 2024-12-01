@@ -1,0 +1,111 @@
+no,nim,nama,alamat,nilai,tanggal_lahir
+1,2020TI1,Lisa Watson,Kombeli,60,10/22/2002
+2,2020TI2,Amy Weaver,Dongkala,70,12/12/1999
+3,2020TI3,Julie Murray,Kombeli,59,4/7/2003
+4,2020TI4,RUDI,Takimpo,95,2/16/2001
+5,2020TI5,Kevin Hampton,Dongkala,87,3/24/2002
+6,2020TI6,Michael Kramer,Kombeli,54,10/29/1999
+7,2020TI7,Rebecca Porter,Dongkala,59,7/5/2000
+8,2020TI8,RUDI,Takimpo,75,5/18/2004
+9,2020TI9,Rachel Bailey,Kombeli,91,5/20/2001
+10,2020TI10,Rodney Yang,Takimpo,56,10/6/2000
+11,2020TI11,Nathan Phelps,Kombeli,66,10/27/2003
+12,2020TI12,Jeremy Gordon,Dongkala,55,2/11/2000
+13,2020TI13,John Pham,Dongkala,50,11/6/1999
+14,2020TI14,RUDI,Takimpo,66,11/4/2002
+15,2020TI15,Craig Carson,Dongkala,92,10/10/2001
+16,2020TI16,Pamela Mccormick,Dongkala,77,12/11/1999
+17,2020TI17,,,,7/19/2003
+18,2020TI18,Dana Bradford,Takimpo,62,12/16/2004
+19,2020TI19,Thomas Cannon,Takimpo,74,1/5/2003
+20,2020TI20,Jeffrey Taylor,Kombeli,76,8/19/2000
+21,2020TI21,Patrick Jenkins,Takimpo,65,1/14/2001
+22,2020TI22,Christopher Hicks,Takimpo,80,12/25/2003
+23,2020TI23,Mrs. Tina Johnson,Kombeli,64,7/4/1999
+24,2020TI24,Nicolas Hogan,Kombeli,54,6/24/2004
+25,2020TI25,Tara Cantu,Dongkala,69,1/11/2002
+26,2020TI26,Cameron Daniels,Dongkala,78,10/5/2004
+27,2020TI27,Daniel Perry,Takimpo,64,12/15/1999
+28,2020TI28,Shannon Orr,Dongkala,71,8/14/2000
+29,2020TI29,Jennifer Edwards,Dongkala,74,5/2/2003
+30,2020TI30,Julia Schultz,Dongkala,95,4/7/2002
+31,2020TI31,Neil Mcknight,Kombeli,92,11/22/2002
+32,2020TI32,Michael Simmons II,Dongkala,88,2/21/2000
+33,2020TI33,Brittney Nguyen,Takimpo,79,6/29/2002
+34,2020TI34,Latasha Peterson,Takimpo,65,10/31/2001
+35,2020TI35,Brett Dudley,Kombeli,96,6/4/2000
+36,2020TI36,Shannon Coleman,Kombeli,71,10/31/1999
+37,2020TI37,Diane Peterson,Kombeli,62,9/13/2000
+38,2020TI38,Ryan Peterson,Takimpo,50,2/17/1999
+39,2020TI39,Linda Holder,Takimpo,83,12/15/2002
+40,2020TI40,Jennifer Wilson,Kombeli,67,3/16/2001
+41,2020TI41,Jeremy Wright,Takimpo,94,6/10/1999
+42,2020TI42,Christine Herrera,Takimpo,,9/8/2004
+43,2020TI43,Ashley Crawford,Dongkala,83,3/7/2004
+44,2020TI44,Gwendolyn Rice,Dongkala,70,1/14/1999
+45,2020TI45,Sandra Craig,Takimpo,81,6/13/2003
+46,2020TI46,Megan Peck,Dongkala,78,11/5/2002
+47,2020TI47,Adam Castro,Takimpo,85,10/16/2002
+48,2020TI48,Holly Hoffman,Takimpo,69,3/3/2002
+49,2020TI49,Jessica Schmidt,Dongkala,87,2/21/2001
+50,2020TI50,Abigail Francis,Takimpo,98,6/25/2004
+51,2020TI51,Mary Wilson,Kombeli,77,2/8/2000
+52,2020TI52,Adam Schultz,Kombeli,,1/28/2004
+53,2020TI53,Kimberly Whitney,Kombeli,70,12/18/2002
+54,2020TI54,Mark Ballard,Kombeli,56,2/13/1999
+55,2020TI55,John Clay,Kombeli,88,5/14/2002
+56,2020TI56,David Davis,Kombeli,52,2/8/2002
+57,2020TI57,Douglas Powell,Kombeli,51,5/13/2001
+58,2020TI58,Larry Waller,Kombeli,84,10/23/2003
+59,2020TI59,Caroline Davis,Kombeli,87,5/20/1999
+60,2020TI60,Greg Williams,Takimpo,70,1/3/2001
+61,2020TI61,Shannon Blevins,Takimpo,76,12/30/2003
+62,2020TI62,Hector Cowan,Takimpo,56,9/16/2004
+63,2020TI63,Sean Baker,Kombeli,75,5/27/2004
+64,2020TI64,Joseph Sellers,Takimpo,53,10/27/2001
+65,2020TI65,Andrew Roberts,Kombeli,84,7/23/2004
+66,2020TI66,Donna Smith,Dongkala,92,4/18/2000
+67,2020TI67,Bradley Jones,Kombeli,82,3/11/1999
+68,2020TI68,Diane Walker,Kombeli,82,6/7/1999
+69,2020TI69,Eric Mccarthy,Dongkala,63,8/15/1999
+70,2020TI70,Luke Cline,Kombeli,61,12/31/1999
+71,2020TI71,Christopher Payne,Kombeli,83,9/25/2001
+72,2020TI72,Joseph Ramos,Kombeli,77,12/20/2002
+73,2020TI73,Joseph Anderson DDS,Dongkala,71,11/9/2000
+74,2020TI74,Katie Allen,Kombeli,89,1/1/2004
+75,2020TI75,Craig Martinez,Kombeli,60,12/14/1999
+76,2020TI76,Carolyn Stone,Kombeli,80,8/18/2002
+77,2020TI77,Joseph Kennedy,Takimpo,50,5/7/2003
+78,2020TI78,Alyssa Davis,Kombeli,84,4/15/2003
+79,2020TI79,John Holder,Takimpo,90,10/9/2003
+80,2020TI80,Shannon Rivas,Dongkala,66,1/20/2004
+81,2020TI81,Christopher Scott,Kombeli,87,10/21/1999
+82,2020TI82,Donna Brown,Takimpo,87,5/14/2000
+83,2020TI83,Maria Gonzalez,Takimpo,61,12/24/2000
+84,2020TI84,Heather Stevens,Kombeli,88,9/29/2000
+85,2020TI85,Michael Nelson,Takimpo,77,6/19/2002
+86,2020TI86,Robin Johnson,Kombeli,81,1/3/2004
+87,2020TI87,Charles Miller,Dongkala,80,10/20/2003
+88,2020TI88,Cheryl Jackson,Takimpo,70,2/21/2000
+89,2020TI89,Jeffrey Orozco,Dongkala,89,1/28/1999
+90,2020TI90,Dwayne Martinez,Dongkala,86,4/16/2002
+91,2020TI91,Jenna Delacruz,Dongkala,77,4/23/2001
+92,2020TI92,Daniel Smith,Dongkala,77,11/9/2001
+93,2020TI93,Jeffrey Santos,Kombeli,56,5/14/2003
+94,2020TI94,Tammy Fitzpatrick,Dongkala,60,2/6/2002
+95,2020TI95,Madison Bailey,,83,2/14/2001
+96,2020TI96,Andrew Anderson,Kombeli,68,5/28/2004
+97,2020TI97,Sandra Whitaker,Kombeli,96,8/18/2002
+98,2020TI98,Kara Phillips,Kombeli,89,4/6/1999
+99,2020TI99,Robert Rojas,Dongkala,64,3/21/2004
+100,2020TI100,Shannon Guzman,,70,5/28/2004
+101,2020TI101,Robert Rojas,Takimpo,98,12/28/2003
+102,2020TI102,Andrew Anderson,Takimpo,73,9/1/2001
+103,2020TI103,,Takimpo,73,1/10/2003
+104,2020TI104,Daniel Smith,Takimpo,81,8/20/2003
+105,2020TI105,,Takimpo,72,9/9/1999
+106,2020TI106,,,68,9/25/2001
+107,2020TI107,Jenna Delacruz,Kombeli,77,8/30/1999
+108,2020TI108,,Dongkala,87,9/8/2000
+109,2020TI109,,Takimpo,60,3/24/1999
+110,2020TI110,,Kombeli,75,6/27/2001
